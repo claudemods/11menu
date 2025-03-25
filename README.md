@@ -21,40 +21,63 @@
 ##
 v1.02 25/03/2025 
 after many hours of button mashing and speaking to deepseek ive fixed the signout and signout, shutdown, restart prompt 🚀
+<div align="center">
 please remove old version, install v1.02 and then reboot for fixes to take affect
+	<div align="center">
 no need for icu package anymore kde updated to  the new package but i will still provide the file 
 
 v1.01 20-02-2025
+<div align="center">
 icu package breaks menu download and extract .tar.gz to /usr/lib or /lib to fix the menu 
 
-forked from https://www.pling.me/p/2171750/ ADHE
-i removed the recent documents section
-you can change the size of the menu 
-also the photo shown on menu isnt included thats my account picture
-the default menu colour is your systems colours mine so happens to be blue
 
+<div align="center">
+forked from https://www.pling.me/p/2171750/ ADHE
+<div align="center">
+i removed the recent documents section
+	<div align="center">
+you can change the size of the menu 
+		<div align="center">
+also the photo shown on menu isnt included thats my account picture
+			<div align="center">
+the default menu colour is your systems colours mine so happens to be blue
+<div align="center">
 configure method
+<div align="center">
 right click default application menu and select show alternatives
+	<div align="center">
 select menu 11 
 ##
 to configure sizes location ect.........
+		<div align="center">
 simply right click application menu and select configure menu 11
+			<div align="center">
 options that are configurable are shown in my 3rd photo 
 
+<div align="center">
 If you plan to change from menu 11
+	<div align="center">
 To my menu you need to signout
+		<div align="center">
 After installing For the menu to change to mine
 
+
+<div align="center">
 known issues 
+	<div align="center">
 doesnt like to work in vms you need to change first option shown in 3rd photo
+		<div align="center">
 to any option and then back to your default e.g small this is only a bug in virtual machines
 
-
+<div align="center">
 i may see what else i can change with this but for now all works fine and its how i want it
+	<div align="center">
 I will be add this into my plasma 6 distros
-**Configurable grid of applications**
+		<div align="center">
+Configurable grid of applications
 
 
+<div align="center">
 If you like what I'm doing and want to support me to improve, please consider donating.
 Buy me a 🍕🥧
 
