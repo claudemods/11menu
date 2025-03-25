@@ -27,9 +27,10 @@ please remove old version, install v1.02 and then reboot for fixes to take affec
 	<div align="center">
 no need for icu package anymore kde updated to  the new package but i will still provide the file 
 
-v1.01 20-02-2025
-<div align="center">
-icu package breaks menu download and extract .tar.gz to /usr/lib or /lib to fix the menu 
+
+
+
+
 
 
 <div align="center">
