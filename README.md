@@ -11,6 +11,17 @@
 	<a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu" /></a>
 
 
+ <div align="center" style="line-height: 3;">
+  <a href="https://www.deepseek.com/" target="_blank">
+    <img 
+      alt="Homepage" 
+      src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png?raw=true" 
+      style="height: 30px; width: auto;" 
+    />
+  </a>
+</div>
+
+
 <div align="center">
 
 [![Version](https://img.shields.io/github/v/release/claudemods/11menu?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/11menu/releases/tag/v1.02)
