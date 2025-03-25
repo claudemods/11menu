@@ -3,7 +3,7 @@
 
 11 menu 
 
-
+##
 v1.02 25/03/2025 
 after many hours of button mashing and speaking to deepseek ive fixed the signout and signout, shutdown, restart prompt 🚀
 please remove old version, install v1.02 and then reboot for fixes to take affect
