@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://i.postimg.cc/JhMRf2RZ/claudemods-03-17-2025.gif">	
 
+<p align="center">
 <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 
 <p align="center">
@@ -9,7 +10,7 @@
            <a href="https://www.debian.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Debian-CE0058?style=for-the-badge&logo=Debian" /></a>
 	<a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu" /></a>
 
- 
+ <p align="center">
 [![Version](https://img.shields.io/github/v/release/claudemods/11menu?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/11menu/releases/tag/v1.02)
 
 
