@@ -49,7 +49,11 @@ configure method
 right click default application menu and select show alternatives
 	<div align="center">
 select menu 11 
-##
+
+		
+  ##
+
+  
 to configure sizes location ect.........
 		<div align="center">
 simply right click application menu and select configure menu 11
@@ -63,6 +67,8 @@ To my menu you need to signout
 		<div align="center">
 After installing For the menu to change to mine
 
+
+##
 
 <div align="center">
 known issues 
@@ -78,6 +84,9 @@ I will be add this into my plasma 6 distros
 		<div align="center">
 Configurable grid of applications
 
+
+
+##
 
 <div align="center">
 If you like what I'm doing and want to support me to improve, please consider donating.
