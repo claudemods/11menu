@@ -44,3 +44,10 @@ If you like what I'm doing and want to support me to improve, please consider do
 Buy me a 🍕🥧
 
 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
+
+![Screenshot_20250324_205833](https://github.com/user-attachments/assets/e1aa4a90-3dfa-41bb-83c9-3b66ad8ec107)
+![Screenshot_20250325_121703](https://github.com/user-attachments/assets/754ebbab-d8da-43ad-806c-9d157b200b66)
+![Screenshot_20250325_120524](https://github.com/user-attachments/assets/eb995731-37ba-4bd6-a452-e486fd59da97)
+
+
+
