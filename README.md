@@ -21,7 +21,9 @@
 ##
 v1.02 25/03/2025 
 <div align="center">
-after many hours of button mashing and speaking to deepseek ive fixed the signout and signout, shutdown, restart prompt 🚀
+after many hours of button mashing and speaking to deepseek
+<div align="center">
+ive fixed the signout and signout, shutdown, restart prompt 🚀
 <div align="center">
 please remove old version, install v1.02 and then reboot for fixes to take affect
 	<div align="center">
