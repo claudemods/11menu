@@ -21,7 +21,7 @@ the default menu colour is your systems colours mine so happens to be blue
 configure method
 right click default application menu and select show alternatives
 select menu 11 
-
+##
 to configure sizes location ect.........
 simply right click application menu and select configure menu 11
 options that are configurable are shown in my 3rd photo 
