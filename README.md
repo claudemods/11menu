@@ -86,7 +86,7 @@ After installing For the menu to change to mine
 <div align="center">
 known issues 
 	<div align="center">
-doesnt like to work in vms you need to change first option shown in 3rd photo
+doesnt like to work in vms you need to change first option shown in 2nd photo
 		<div align="center">
 to any option and then back to your default e.g small this is only a bug in virtual machines
 
