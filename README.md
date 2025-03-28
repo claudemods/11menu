@@ -71,7 +71,7 @@ to configure sizes location ect.........
 		<div align="center">
 simply right click application menu and select configure menu 11
 			<div align="center">
-options that are configurable are shown in my 3rd photo 
+options that are configurable are shown in my 2nd photo 
 
 <div align="center">
 If you plan to change from menu 11
